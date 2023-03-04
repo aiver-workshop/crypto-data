@@ -43,7 +43,7 @@ To get the list of packages installed:
 
 ## PyCharm - Integrated Development Environment (IDE)
 Download and install Anaconda from https://www.anaconda.com/.
-After completing the installation:
-1. Open the project by `File` -> `Open...` -> select/navigate to folder `crypto-data` (git clone this repostiory)
-2. Configure the Python interpreter by `File` -> `Settings...` -> `Project: crypto-data` -> `Python Interpreter` -> `Add Local Interpreter` -> `Conda Environment` -> `Use Existing environment` -> `py37-smu`
+Git clone this repository, then setup PyCharm:
+1. Open this project by `File` -> `Open...` -> select/navigate to folder `crypto-data`
+2. Configure Python interpreter by `File` -> `Settings...` -> `Project: crypto-data` -> `Python Interpreter` -> `Add Local Interpreter` -> `Conda Environment` -> `Use Existing environment` -> `py37-smu`
 
