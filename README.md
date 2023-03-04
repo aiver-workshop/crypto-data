@@ -20,7 +20,7 @@ Each environment installation directory contains the `python.exe`, and we will n
 We are going to install more libraries in `py37-crypto` environment. First activate it:
 
 ```
-> conda activate py37-smu
+> conda activate py37-crypto
 ```
 To check Python version is 3.7, enter the following:
 ```
